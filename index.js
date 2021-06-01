@@ -1,4 +1,7 @@
-const axios = require('axios');
+require('dotenv').config();
+
+const axios = require('axios').default;
+
 
 
 
